@@ -1,0 +1,8 @@
+train: /Users/berry/Desktop/Object_Detection_Yolov8/data/train/images
+val: /Users/berry/Desktop/Object_Detection_Yolov8/data/valid/images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
+
+
+
